@@ -4,3 +4,5 @@ uORF/dataset
 uORF/ckpt
 .idea
 data
+prad/data
+prad/results
